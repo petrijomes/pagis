@@ -37,7 +37,7 @@ export const Review = () => {
                   Width: 362,
                   padding: 3,
                   height: 400,
-                  background: "#B48BB5",
+                  background: "#4EA2A6",
                 }}
                 elevation={18}
               >
